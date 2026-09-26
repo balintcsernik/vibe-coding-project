@@ -21,7 +21,7 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 _Pick one in Module 2: no switching after M2._
 
-- [ ] The Retention Engine (B2B SaaS, value risk)
+- [X] The Retention Engine (B2B SaaS, value risk)
 - [ ] The Internal Tool Nobody Uses (CRM, usability)
 - [ ] The Marketplace Trust Problem (value / feasibility)
 - [ ] The Dashboard Nobody Reads (usability)
